@@ -43,4 +43,4 @@ SafeSite Settings → **Export**, then **Import** the file on the other device. 
 **The AI check**
 It's optional and off by default; turn it on in SafeSite's Settings. It runs on your device and can add or confirm a warning, but never marks a site as safe. See the [privacy policy](privacy) for details per browser.
 
-[Privacy policy](privacy) · [Home](./)
+[Home](./)

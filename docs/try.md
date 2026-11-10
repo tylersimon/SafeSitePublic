@@ -16,4 +16,4 @@ Start typing in the password box. Because this site isn't on your list of safe s
 
 Afterwards you can choose **Not now**, or open SafeSite and turn checks off for this site. If you tap **Trust this site**, SafeSite won't warn you on this site again until you mark it unsafe.
 
-[Help](support) · [Home](./)
+[Home](./)
